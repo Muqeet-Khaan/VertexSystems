@@ -17,7 +17,6 @@
     margin-left: 8px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
 .ul .card {
     flex: 1 1 300px;
     max-width: 20rem;
@@ -62,7 +61,6 @@
     text-decoration: underline;
 }
 
-/* Ensure navbar toggler is visible on custom gradient navbar */
 .navbar .navbar-toggler {
     border-color: rgba(255, 255, 255, 0.55);
 }
@@ -124,7 +122,6 @@
     border-radius: 15px;
 }
 
-/* Card styling - unified for all cards */
 .card, .virus-card, .tool-card {
     border: 1px solid #004d40;
     border-radius: 15px;
@@ -197,7 +194,7 @@ body {
     background: #f0f8ff;
 }
 
-/* Hero Section */
+
 .hero {
     display: flex;
     align-items: center;
@@ -209,7 +206,6 @@ body {
     color: white;
 }
 
-/* Left Text */
 .hero-text h1 {
     font-size: 3.5rem;
     line-height: 1.2;
