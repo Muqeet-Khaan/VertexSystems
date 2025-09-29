@@ -1,0 +1,8 @@
+{
+  "name": "vertex-systems-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx http-server ./ -p 3002"
+  }
+}
